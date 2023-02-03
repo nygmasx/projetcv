@@ -1,0 +1,211 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+}
+
+h1{
+	 color: #222;
+    font-size: 50px;
+}
+
+#accueil{
+    width: 50%;
+    height: 600px;
+}
+
+/*header*/
+
+.logo{
+    position: relative;
+    bottom: auto;
+    left: 60px;
+    width: 50px;
+}
+
+header{
+    height: 85px;
+}
+
+header nav{
+    float: right;
+    margin-right: 30px;
+}
+
+header nav ul li{
+    display: flex;
+    justify-content: space-between;
+    float: left;
+    margin-right: 40px;
+}
+
+header nav ul li a:hover{
+    border-bottom: solid 2px #222;
+    padding-bottom: 10px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #222;
+}
+
+ul{
+    list-style: none;
+}
+
+/* JHON */
+
+.ordi img{
+     position: relative;
+    background-size: cover;
+    opacity: 0.1;
+    width: 200%;
+    height: 600px;
+    bottom: 9px;
+}
+
+.bonjour img{
+    height: 60px;
+    position: relative;
+    bottom: 470px;
+    margin-left: 40px;
+
+}
+
+.John h1{
+    color: #222;
+    font-size: 50px;
+    position: relative;
+    bottom: 490px;
+    margin-left: 60px;
+}
+
+.John h2{
+    color: #222;
+    font-size: 30px;
+    position: relative;
+    bottom: 520px;
+    margin-left: 60px;
+}
+
+
+.email{
+    color: #222;
+    position: relative;
+    bottom: 510px;
+    margin-left: 95px;
+}
+
+.lettre{
+    height: 15px;
+    position: relative;
+    bottom: 540px;
+    margin-left: 60px;
+}
+
+.telephone{
+    background-image: none;
+    position: relative;
+    bottom: 522px;
+    margin-left: 60px;
+    height: 15px;
+}
+
+.num{
+    color: #222;
+    position: relative;
+    bottom: 556px;
+    margin-left: 90px;
+}
+
+.adresse{
+    color: #222;
+    position: relative;
+    bottom: 550px;
+    margin-left: 87px;
+}
+
+.localisation{
+    height: 15px;
+    position: relative;
+    bottom: 617px;
+    margin-left: 60px;
+}
+
+.reseaux{
+    height: 50px;
+    position: relative;
+    bottom: 520px;
+    margin-left: -30px;
+}
+
+.cotedroit{
+    float: right;
+    margin-top: -500px;
+    width: 50%;
+}
+
+.cotedroit img{
+    position: relative;
+    bottom: 40px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    border: rgb(167, 167, 167, 0.80) 22px solid;
+    border-radius: 50%;
+    opacity: 0.8;
+    outline: 22px solid rgb(179, 179, 179, 0.50);
+}
+
+/*NOURDYNE*/
+
+.image img{
+    width: 50%;
+}
+
+.texte h2{
+    color: #303030;
+    position: relative;
+    bottom: 400px;
+    margin-left: 800px;
+    font-size: 30px;
+}
+
+.paragraphe p{
+    margin-left: 800px;
+    bottom: 400px;
+    position: relative;
+}
+
+.tech{
+    display: inline-block;
+    width: fit-content;
+    border: 2px solid rgb(172, 233, 220);
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: relative;
+    bottom: 400px;
+    margin-left: 800px;
+}
+
+.dld img{
+    margin-left: 1100px;
+    width: 300px;
+    margin-bottom: 150px;
+}
+
+.cotedroite{
+    float: right;
+    margin-top: -500px;
+}
+
+.cotedroite img{
+    width: 300px;
+    margin-right: 100px;
+}
