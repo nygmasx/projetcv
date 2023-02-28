@@ -1,0 +1,131 @@
+body{
+	width: 800px;;
+	margin: auto;
+}
+
+h1{
+	color: #3574bb;
+	font-family: Arial, Helvetica, sans-serif ;
+	margin-left: 25px;
+
+}
+
+hr.haut{
+	height: 30px;
+	background-color: #3574bb;
+}
+
+img{
+	width: 150px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: white;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+.gauche{
+	background-color: lightgrey;
+	margin-left: 20px;
+	width: 200px;
+	height: 1310.4px;
+}
+
+h4{
+	margin-left: 15px;
+	font-family: Arial, Helvetica, sans-serif ;
+}
+
+p{
+	margin-left: 15px;
+	font-family: Arial, Helvetica, sans-serif ;
+	font-size: 15px;
+}
+
+p.DROITE{
+	color: #3574BB;
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif ;
+}
+
+
+.date{
+    color: #3574BB;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+ul li{
+    display: inline-block;
+}
+
+aside{
+	width: 70%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: #f3f3f3;
+}
+
+#cerclebleu{
+    width: 12px;
+    height: 12px;
+    border-radius: 20px;
+    background-color:#3574BB;
+    display: inline-block;    
+}
+
+#carre {
+    height: 10px;
+    width: 10px;
+    background-color: #3574BB;
+    display: inline-block;
+    
+}
+    
+
+#cerclegris{
+    width: 12px;
+    height: 12px;
+    border-radius: 20px;
+    background-color: #E3E3E3;
+    display: inline-block;
+   	
+    position:static;right:middle;
+}
+
+
+h2{
+    color: #3574BB;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+
+dd{
+    color: #3574BB;
+    font-family: Arial, Helvetica, sans-serif ;
+
+}
+
+ul li{
+    display: inline-block;
+}
+
+
+abbr{
+    color: #3574BB;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+span{
+	display: inline-block;
+	position: relative;
+	text-align: center;
+}
+
+hr.bas{
+	height: 30px;
+	background-color: #3574bb;
+}
